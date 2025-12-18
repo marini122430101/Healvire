@@ -81,7 +81,7 @@ export default function Documentation() {
             <img
               src={Dokumen2}
               alt="Proses 2"
-              className="h-72 w-full object-cover rounded-2xl shadow-lg border border-green-100 order-1 md:order-2"
+              className="h-full w-full object-cover rounded-2xl shadow-lg border border-green-100 order-1 md:order-2"
             />
           </div>
 
@@ -92,7 +92,7 @@ export default function Documentation() {
             <img
               src={Dokumen3}
               alt="Proses 3"
-              className="h-72 w-full object-cover rounded-2xl shadow-lg border border-green-100"
+              className="h-full w-full object-cover rounded-2xl shadow-lg border border-green-100"
             />
 
             {/* Text */}
@@ -123,7 +123,7 @@ export default function Documentation() {
             <img
               src={Dokumen4}
               alt="Proses 4"
-              className="h-72 w-full object-cover rounded-2xl shadow-lg border border-green-100 order-1 md:order-2"
+              className="h-full w-full object-cover rounded-2xl shadow-lg border border-green-100 order-1 md:order-2"
             />
           </div>
 
@@ -134,7 +134,7 @@ export default function Documentation() {
             <img
               src={Dokumen5}
               alt="Proses 5"
-              className="h-72 w-full object-cover rounded-2xl shadow-lg border border-green-100"
+              className="h-full w-full object-cover rounded-2xl shadow-lg border border-green-100"
             />
 
             {/* Text */}
@@ -166,7 +166,7 @@ export default function Documentation() {
             <img
               src={Dokumen6}
               alt="Proses 6"
-              className="h-72 w-full object-cover rounded-2xl shadow-lg border border-green-100 order-1 md:order-2"
+              className="h-full w-full object-cover rounded-2xl shadow-lg border border-green-100 order-1 md:order-2"
             />
           </div>
 
@@ -177,7 +177,7 @@ export default function Documentation() {
             <img
               src={Dokumen7}
               alt="Proses 7"
-              className="h-72 w-full object-cover rounded-2xl shadow-lg border border-green-100"
+              className="h-full w-full object-cover rounded-2xl shadow-lg border border-green-100"
             />
 
             {/* Text */}
@@ -209,7 +209,7 @@ export default function Documentation() {
             <img
               src={Dokumen8}
               alt="Proses 8"
-              className="h-72 w-full object-cover rounded-2xl shadow-lg border border-green-100 order-1 md:order-2"
+              className="h-full w-full object-cover rounded-2xl shadow-lg border border-green-100 order-1 md:order-2"
             />
           </div>
 
@@ -220,7 +220,7 @@ export default function Documentation() {
             <img
               src={Dokumen9}
               alt="Proses 9"
-              className="h-72 w-full object-cover rounded-2xl shadow-lg border border-green-100"
+              className="h-full w-full object-cover rounded-2xl shadow-lg border border-green-100"
             />
 
             {/* Text */}
